@@ -1,0 +1,18 @@
+h1{
+    color:rgba(22, 185, 214, 0.836);
+    display:flex;
+    justify-content: center;
+  }
+  h3{
+    color:rgb(15, 206, 190);
+  }
+  .bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+    .pigset1,.pigset2,.pigset3{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+    }

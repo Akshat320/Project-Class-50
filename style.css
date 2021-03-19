@@ -1,0 +1,50 @@
+h1{
+    color:rgb(201, 36, 7);
+    display:flex;
+    justify-content: center;
+  }
+  h2{
+    color:rgb(17, 146, 0);
+  }
+  *{
+    background-color:rgb(83, 255, 189);
+  }
+  h4{
+    color:rgb(201, 36, 7);
+    display:flex;
+    justify-content: center;
+  }
+
+.bars{
+
+display:flex;
+justify-content:space-around;
+}
+.origami{
+  display:flex;
+justify-content:center;
+}
+.animal1{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+.animal2{
+  margin-left: 600px;
+  margin-right: 600px;
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+
+}
+.animal3{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+.templates{
+  display: flex;
+  justify-content: space-between;
+  flex-direction:row;
+ 
+}

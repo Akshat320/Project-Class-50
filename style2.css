@@ -1,0 +1,24 @@
+h1{
+    color:darkgreen;
+    display:flex;
+    justify-content: center;
+  }
+  h3{
+    color:rgb(125, 192, 24)
+  }
+  .bars{
+
+    display:flex;
+    justify-content:space-around;
+    }
+    .chamset1,.chamset2,.chamset3,.chamset4{
+      display:flex;
+      justify-content: space-between;
+      flex-direction: row;
+    }
+
+    .chamset5{
+      display:flex;
+      justify-content: center;
+      flex-direction: row;
+    }
